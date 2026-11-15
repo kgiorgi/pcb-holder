@@ -8,3 +8,5 @@ The base is a rail made of 170mm pieces that click together end to end, so you c
 Two towers sit and slide along the rail. Each tower has a printed screw that you tighten to lock it in place.
 Each tower has a jaw with a notch that the edge of the board sits in. The notch is angled, so it centers the board by itself and works with boards from about 0.8 to 3 mm thick.
 The jaw turns on a shaft, and a small knob on the back lets you turn it. Inside the tower there is a small springy piece that clicks into slots on the shaft, so the board stops every 45 degrees and stays at that angle while you work.
+
+![pcb-holder](/PCBholder.png)
